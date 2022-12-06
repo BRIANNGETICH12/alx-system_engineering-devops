@@ -1,1 +1,2 @@
-Shell, I/O Redirection:x
+#!/bin/bash
+shell redirection
